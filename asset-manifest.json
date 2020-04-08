@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.f34be11e.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.e9cad46d.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.e9cad46d.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.a0d97005.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.a0d97005.js.map",
+    "static/js/2.aa63360c.chunk.js": "/React-Portfolio/static/js/2.aa63360c.chunk.js",
+    "static/js/2.aa63360c.chunk.js.map": "/React-Portfolio/static/js/2.aa63360c.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.0bc5118c4ef98677247864c5e40d300a.js": "/React-Portfolio/precache-manifest.0bc5118c4ef98677247864c5e40d300a.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.f34be11e.chunk.css.map": "/React-Portfolio/static/css/main.f34be11e.chunk.css.map",
+    "static/js/2.aa63360c.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.aa63360c.chunk.js.LICENSE.txt",
+    "static/media/BurgerLogger.png": "/React-Portfolio/static/media/BurgerLogger.f66851ef.png",
+    "static/media/EmployeeSummary1.png": "/React-Portfolio/static/media/EmployeeSummary1.163420d5.png",
+    "static/media/EmployeeSummary2.gif": "/React-Portfolio/static/media/EmployeeSummary2.e9bde01c.gif",
+    "static/media/FitnessTracker1.png": "/React-Portfolio/static/media/FitnessTracker1.fb3b6097.png",
+    "static/media/FitnessTracker2.png": "/React-Portfolio/static/media/FitnessTracker2.5c7ab3dc.png",
+    "static/media/MoodSwing1.png": "/React-Portfolio/static/media/MoodSwing1.958344bb.png",
+    "static/media/MoodSwing2.png": "/React-Portfolio/static/media/MoodSwing2.ac1b5f5b.png",
+    "static/media/NoteTaker1.png": "/React-Portfolio/static/media/NoteTaker1.4ad1eda6.png",
+    "static/media/NoteTaker2.png": "/React-Portfolio/static/media/NoteTaker2.4ad1eda6.png",
+    "static/media/headshot1.jpeg": "/React-Portfolio/static/media/headshot1.2c5c956b.jpeg",
+    "static/media/justCoffee1.png": "/React-Portfolio/static/media/justCoffee1.373a6284.png",
+    "static/media/justCoffee2.png": "/React-Portfolio/static/media/justCoffee2.374bc223.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0d97005.js",
+    "static/js/2.aa63360c.chunk.js",
+    "static/css/main.f34be11e.chunk.css",
+    "static/js/main.e9cad46d.chunk.js"
+  ]
+}
